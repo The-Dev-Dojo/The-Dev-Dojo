@@ -35,8 +35,8 @@ Where lines of code weave magic and innovation finds its home. Step into our bus
 💬 Need help or have questions? [contact us](mailto:devdojo.website+support@gmail.com)
 
 ---
+Members : 
 
-[![Discord](https://img.shields.io/discord/1171875895364030515?label=Discord%20Server&logo=discord&style=flat-square&color=5b23fa)](https://discord.gg/zhcGYBmdff)
+[![Discord](https://img.shields.io/discord/1171875895364030515?label=Discord%20Server&logo=discord&style=flat-square&color=5b23fa)](https://discord.gg/zhcGYBmdff) <p align="right"> <img src="https://komarev.com/ghpvc/?username=the-dev-dojo&label=Profile%20views&color=5b23fa&style=flat" /> </p>
 
 ---
-[![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=the-dev-dojo)]([https://github.com/The-Dev-Dojo/])
